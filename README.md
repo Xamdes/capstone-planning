@@ -4,13 +4,13 @@
 
   * Steven Colburn
 
+## Project Static Repo
+
+  * git clone https://github.com/Xamdes/groups-static.git
+
 ## Diagram
 
 ![diagram](./capstone-planning-diagram.png)
-
-## Project Static Repo
-
-* git clone https://github.com/Xamdes/groups-static.git
 
 ## Project Description
 
