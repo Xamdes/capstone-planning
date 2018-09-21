@@ -8,6 +8,10 @@
 
 ![diagram](./capstone-planning-diagram.png)
 
+## Project Static Repo
+
+* git clone https://github.com/Xamdes/groups-static.git
+
 ## Project Description
 
 ### Name of Student: Steven Colburn
